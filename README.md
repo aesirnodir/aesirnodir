@@ -1,0 +1,2 @@
+# aesirnodir
+Warrior
